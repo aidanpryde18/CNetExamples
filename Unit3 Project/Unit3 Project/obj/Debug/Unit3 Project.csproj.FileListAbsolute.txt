@@ -1,0 +1,9 @@
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\bin\Debug\Unit3 Project.exe.config
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\bin\Debug\Unit3 Project.exe
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\bin\Debug\Unit3 Project.pdb
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\obj\Debug\Unit3 Project.csprojResolveAssemblyReference.cache
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\obj\Debug\Unit3_Project.frmBaseball.resources
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\obj\Debug\Unit3_Project.Properties.Resources.resources
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\obj\Debug\Unit3 Project.csproj.GenerateResource.Cache
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\obj\Debug\Unit3 Project.exe
+c:\users\billy\documents\visual studio 2015\Projects\Unit3 Project\Unit3 Project\obj\Debug\Unit3 Project.pdb

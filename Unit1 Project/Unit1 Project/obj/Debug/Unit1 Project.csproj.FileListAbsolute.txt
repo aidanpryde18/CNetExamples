@@ -1,0 +1,9 @@
+c:\users\billy\documents\visual studio 2015\Projects\Unit1 Project\Unit1 Project\bin\Debug\Unit1 Project.exe.config
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\bin\Debug\Unit1 Project.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\bin\Debug\Unit1 Project.pdb
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\obj\Debug\Unit1 Project.csprojResolveAssemblyReference.cache
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\obj\Debug\Unit1_Project.frmIntrodution.resources
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\obj\Debug\Unit1_Project.Properties.Resources.resources
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\obj\Debug\Unit1 Project.csproj.GenerateResource.Cache
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\obj\Debug\Unit1 Project.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit1 Project\Unit1 Project\obj\Debug\Unit1 Project.pdb

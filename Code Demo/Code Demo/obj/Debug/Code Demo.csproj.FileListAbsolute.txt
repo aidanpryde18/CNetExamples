@@ -1,0 +1,9 @@
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\bin\Debug\Code Demo.exe.config
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\bin\Debug\Code Demo.exe
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\bin\Debug\Code Demo.pdb
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\obj\Debug\Code Demo.csprojResolveAssemblyReference.cache
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\obj\Debug\Code_Demo.Form1.resources
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\obj\Debug\Code_Demo.Properties.Resources.resources
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\obj\Debug\Code Demo.csproj.GenerateResource.Cache
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\obj\Debug\Code Demo.exe
+c:\users\billy\documents\visual studio 2015\Projects\Code Demo\Code Demo\obj\Debug\Code Demo.pdb

@@ -1,0 +1,9 @@
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\bin\Release\FolderCleaner.exe.config
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\bin\Release\FolderCleaner.exe
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\bin\Release\FolderCleaner.pdb
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\obj\Release\FolderCleaner.csprojResolveAssemblyReference.cache
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\obj\Release\FolderCleaner.frmMain.resources
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\obj\Release\FolderCleaner.Properties.Resources.resources
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\obj\Release\FolderCleaner.csproj.GenerateResource.Cache
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\obj\Release\FolderCleaner.exe
+c:\users\billy\documents\visual studio 2015\Projects\FolderCleaner\FolderCleaner\obj\Release\FolderCleaner.pdb

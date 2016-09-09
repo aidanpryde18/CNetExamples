@@ -1,0 +1,9 @@
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\bin\Debug\Unit4 Project.exe.config
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\obj\Debug\Unit4 Project.csprojResolveAssemblyReference.cache
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\obj\Debug\Unit4_Project.frmPurchases.resources
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\obj\Debug\Unit4_Project.Properties.Resources.resources
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\obj\Debug\Unit4 Project.csproj.GenerateResource.Cache
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\bin\Debug\Unit4 Project.exe
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\bin\Debug\Unit4 Project.pdb
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\obj\Debug\Unit4 Project.exe
+c:\users\billy\documents\visual studio 2015\Projects\Unit4 Project\Unit4 Project\obj\Debug\Unit4 Project.pdb

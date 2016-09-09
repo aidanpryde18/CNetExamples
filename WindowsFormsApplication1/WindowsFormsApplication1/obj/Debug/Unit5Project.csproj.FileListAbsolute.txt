@@ -1,0 +1,9 @@
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Unit5Project.exe.config
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Unit5Project.exe
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Unit5Project.pdb
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Unit5Project.frmTask.resources
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Unit5Project.Properties.Resources.resources
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Unit5Project.csproj.GenerateResource.Cache
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Unit5Project.exe
+c:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Unit5Project.pdb
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Unit5Project.csprojResolveAssemblyReference.cache

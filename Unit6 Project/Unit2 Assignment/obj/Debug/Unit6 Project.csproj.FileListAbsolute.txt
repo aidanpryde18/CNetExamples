@@ -1,0 +1,10 @@
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\bin\Debug\Unit6 Project.exe.config
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\bin\Debug\Unit6 Project.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\bin\Debug\Unit6 Project.pdb
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6 Project.csprojResolveAssemblyReference.cache
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6_Project.Properties.Resources.resources
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6 Project.csproj.GenerateResource.Cache
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6 Project.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6 Project.pdb
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6_Project.frmMain.resources
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit6_Project.frmPredict.resources

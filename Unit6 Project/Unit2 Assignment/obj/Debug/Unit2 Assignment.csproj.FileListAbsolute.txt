@@ -1,0 +1,12 @@
+c:\users\billy\documents\visual studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\bin\Debug\Unit2 Assignment.exe.config
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\bin\Debug\Unit2 Assignment.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\bin\Debug\Unit2 Assignment.pdb
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\obj\Debug\Unit2 Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\obj\Debug\Unit2_Assignment.frmGreetings.resources
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\obj\Debug\Unit2_Assignment.Properties.Resources.resources
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\obj\Debug\Unit2 Assignment.csproj.GenerateResource.Cache
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\obj\Debug\Unit2 Assignment.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit2 Assignment\Unit2 Assignment\obj\Debug\Unit2 Assignment.pdb
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\bin\Debug\Unit2 Assignment.exe.config
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit2 Assignment.exe
+C:\Users\Billy\Documents\Visual Studio 2015\Projects\Unit6 Project\Unit2 Assignment\obj\Debug\Unit2 Assignment.pdb
